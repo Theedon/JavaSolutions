@@ -17,7 +17,7 @@ The Java programming language was used in making the solutions as it was my favo
 ## How to install and Run the Project
 
 The entire repo is a project created from the default intelliJ template but it can also be opened in other IDEs
-such as eclipse and Netbeans. You can also just download the individual java files in the [src folder]("./src") and run them using the java compiler available on your OS.
+such as eclipse and Netbeans. You can also just download the individual java files in the [src folder](src) and run them using the java compiler available on your OS.
 
 ## How to Use
 
